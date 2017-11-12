@@ -14,7 +14,7 @@ npm start
 
 ### Testing 
 
-While the server is running hit the URL of the form [127.0.0.1:8080/api?cnty=XYZ&amt=10.0&taxes=12.50&promos=-3](127.0.0.1:8080/api?cnty=XYZ&amt=10.0&taxes=12.50&promos=-3)
+While the server is running hit the URL of the form [http://127.0.0.1:8080/api?cnty=XYZ&amt=10.0&taxes=12.50&promos=-3](http://127.0.0.1:8080/api?cnty=XYZ&amt=10.0&taxes=12.50&promos=-3)
 
 ## On OpenShift 
 
